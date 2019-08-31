@@ -5,6 +5,15 @@
 
 /* Global Styles go here */
 body {
-  background: white;
-  color: black;
+
+  color: white;
 }
+
+grad {
+  background-image: linear-gradient(red, yellow, blue);
+}
+
+ h1 {
+   font-size: 24pt;
+   color:red;
+ }
