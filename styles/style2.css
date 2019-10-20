@@ -1,0 +1,54 @@
+
+/* Global Styles go here */
+body {
+  color: white;
+  font-size: 0.75em;
+  font-family: sans-serif;
+  text-align: center;
+  line-height: 8em;
+  word-spacing: 16em;
+}
+
+.buttonTopLeft{
+  bottom: auto;
+  right: auto;
+  top: 0px;
+  left:0px;
+}
+
+.buttonTopLeft .semicircle{
+  background-color: #38af6d;
+}
+
+.dancinguys{
+  width: 40%;
+  height: 60vh;
+  margin: 20vh auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.dancinguy1{
+  background-image: url("../assets/fig1.jpg");
+}
+
+.dancinguy1:hover{
+  background-image: url("../assets/dancing-guy1.png");
+}
+
+.dancinguy2{
+  background-image: url("../assets/fig1.jpg");
+}
+
+.dancinguy2:hover{
+  background-image: url("../assets/dancing-guy1.png");
+}
+
+.dancinguy3{
+  background-image: url("../assets/fig1.jpg");
+}
+
+.dancinguy3:hover{
+  background-image: url("../assets/dancing-guy1.png");
+}

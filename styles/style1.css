@@ -7,13 +7,11 @@
 body {
   color: white;
   background: linear-gradient(#fff8a8,pink,#d8f0ef);
-  font-size: 2em;
+  font-size: 0.75em;
   font-family: sans-serif;
   text-align: center;
   line-height: 8em;
-  word-spacing: 8em;
-
-
+  word-spacing: 16em;
 }
 
  .h1 {
@@ -21,14 +19,9 @@ body {
    color:red;
  }
 
- .buttons {
-   position:fixed;
-   margin-bottom:0px;
-   margin-right:5px;
-   font-size: 25px;
-   z-index: 101;
-   bottom:0px;
-   right: 0px;
- }
-
-z
+.text-line{
+  visibility: hidden;
+}
+.show{
+  visibility: visible;
+}
