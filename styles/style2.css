@@ -7,6 +7,7 @@ body {
   text-align: center;
   line-height: 8em;
   word-spacing: 16em;
+  background-color: white;
 }
 
 .buttonTopLeft{
@@ -30,25 +31,25 @@ body {
 }
 
 .dancinguy1{
-  background-image: url("../assets/fig1.jpg");
+  background-image: url("../assets/dancing-guy1.png");
 }
 
 .dancinguy1:hover{
-  background-image: url("../assets/dancing-guy1.png");
+  background-image: url("../assets/alternate.png");
 }
 
 .dancinguy2{
-  background-image: url("../assets/fig1.jpg");
+  background-image: url("../assets/dancing-guy2.png");
 }
 
 .dancinguy2:hover{
-  background-image: url("../assets/dancing-guy1.png");
+  background-image: url("../assets/alternate.png");
 }
 
 .dancinguy3{
-  background-image: url("../assets/fig1.jpg");
+  background-image: url("../assets/dancing-guy3.png");
 }
 
 .dancinguy3:hover{
-  background-image: url("../assets/dancing-guy1.png");
+  background-image: url("../assets/alternate.png");
 }

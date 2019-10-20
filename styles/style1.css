@@ -7,11 +7,12 @@
 body {
   color: white;
   background: linear-gradient(#fff8a8,pink,#d8f0ef);
-  font-size: 0.75em;
+  font-size: 1em;
   font-family: sans-serif;
   text-align: center;
-  line-height: 8em;
-  word-spacing: 16em;
+  line-height: 6em;
+  word-spacing: 10em;
+  font-family: 'Poppins', sans-serif;
 }
 
  .h1 {
