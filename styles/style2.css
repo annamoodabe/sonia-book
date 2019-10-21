@@ -31,25 +31,25 @@ body {
 }
 
 .dancinguy1{
-  background-image: url("../assets/dancing-guy1.png");
+  background-image: url("../assets/dancing-guy1.jpg");
 }
 
 .dancinguy1:hover{
-  background-image: url("../assets/alternate.png");
+  background-image: url("../assets/dancing-guy1.gif");
 }
 
 .dancinguy2{
-  background-image: url("../assets/dancing-guy2.png");
+  background-image: url("../assets/dancing-guy2.jpg");
 }
 
 .dancinguy2:hover{
-  background-image: url("../assets/alternate.png");
+  background-image: url("../assets/dancing-guy2.gif");
 }
 
 .dancinguy3{
-  background-image: url("../assets/dancing-guy3.png");
+  background-image: url("../assets/dancing-guy3.jpg");
 }
 
 .dancinguy3:hover{
-  background-image: url("../assets/alternate.png");
+  background-image: url("../assets/dancing-guy3.gif");
 }
