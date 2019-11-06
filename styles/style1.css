@@ -4,17 +4,21 @@
 }
 
 /* Global Styles go here */
+
 body {
   color: white;
-  background: linear-gradient(#fff8a8,pink,#d8f0ef);
+  background: linear-gradient(#e7e3f2,#fff8a8,pink,#d8f0ef);
   font-size: 1em;
   font-family: sans-serif;
-  text-align: center;
-  line-height: 6em;
+  text-align: justify;
+  line-height: 4em;
   word-spacing: 10em;
   font-family: 'Poppins', sans-serif;
   margin: 20px;
 }
+
+
+
 
 
  .h1 {

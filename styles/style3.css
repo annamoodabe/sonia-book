@@ -1,21 +1,36 @@
 
 /* Global Styles go here */
 body {
-  color: white;
-  font-size: 0.75em;
   font-family: sans-serif;
-  text-align: center;
-  background-color: white;
+  background-color: #e7e3f2;
+  font-family: 'Libre Baskerville', serif;
+
 }
 
-.credit {
-  font-size: .5em;
-  right: 7%;
-  bottom: 5%;
+
+
+.Sonia {
+  font-size:5em;
+  top: 10%;
+  padding-left: 20%;
+  padding-top: 15%;
   position: fixed;
-  text-align: left;
-  color: black;
+  text-align:left;
+  color: red;
+  display: inline-block;
+
 }
+
+.Delauney {
+  font-size:5em;
+  top: 20%;
+  bottom:10px;
+  padding: 50px;
+  position: fixed;
+  text-align:center;
+  color: red;
+}
+
 
 .buttonTopLeft{
   bottom: auto;
